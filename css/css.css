@@ -1,0 +1,64 @@
+.border {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.text {
+   padding: 70px;
+
+}
+
+.left {
+    background-image: url(../media/left1.jpg);
+    background-repeat: repeat-y;
+    background-position: left center;
+
+}
+
+.left-top {
+    background-image: url(../media/top-left.jpg);
+    background-repeat: no-repeat;
+    background-position: left top;
+
+}
+.top {
+    background-image: url(../media/top1.jpg);
+    background-repeat: repeat-x;
+    background-position: top center;
+
+
+}
+
+.right-top {
+    background-image: url(../media/top-right.jpg);
+    background-repeat: no-repeat;
+    background-position: top right;
+
+}
+
+.right {
+    background-image: url(../media/right1.jpg);
+    background-repeat: repeat-y;
+    background-position: right;
+
+}
+
+.right-bottom {
+    background-image: url(../media/bottom-right.jpg);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+
+.bottom {
+    background-image: url(../media/bottom.jpg);
+    background-repeat: repeat-x;
+    background-position: bottom;
+
+}
+
+.left-bottom {
+    background-image: url(../media/bottom-left.jpg);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
